@@ -3,7 +3,7 @@ ProjectAres
 
 Custom Bukkit/Bungee plugins used by the former Overcast Network
 
-**NOTE**: This repository is no longer maintained, but you can still contribute to [forks](https://github.com/OvercastNetwork/ProjectAres/network).
+**NOTE**: This is for fixing. If i get some errors i will fix it and update it here. yeah
 
 # License
 
